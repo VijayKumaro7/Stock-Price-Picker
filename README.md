@@ -20,6 +20,14 @@ Retrieve daily stock price data, including Open, High, Low, Close, and Volume, f
 - Display RSI in a separate chart with clear thresholds for overbought and oversold levels.
 - Interactive, clear, and professional visualizations suitable for presentations.
 
+#### Stock Analysis (Price, Moving Averages & Bollinger Bands)
+
+![Stock Analysis](Figure_1.png)
+
+#### Relative Strength Index (RSI)
+
+![RSI Chart](Figure_2.png)
+
 ### Error Handling
 
 Includes robust error handling for invalid API keys, incorrect stock symbols, and unexpected data issues.
